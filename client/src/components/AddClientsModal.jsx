@@ -50,7 +50,6 @@ export default function AddClientsModal() {
       <div
         className='modal fade'
         id='addClientModal'
-        tabindex='-1'
         aria-labelledby='addClientModalLabel'
         aria-hidden='true'
       >
